@@ -1,3 +1,3 @@
 {
-  "message.electric_shock.cannot_place_mekanism_machine": "The static electricity might break the machine. If you take off your gear, you might be able to prevent the static electricity."
+  "message.electric_shock.cannot_place_mekanism_machine": "The Since electric shock can be dangerous to the machinery when wearing equipment, we have disabled the ability to place Mekanism machines. might break the machine. If you take off your gear, you might be able to prevent the static electricity."
 }
