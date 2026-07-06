@@ -21,7 +21,7 @@ object MekanismPlaceHandler {
         if (blockEntity is TileEntityMekanism) {
             event.isCanceled = true
             player.displayClientMessage(
-                Component.literal("静電気で機械が壊れそうだ。装備を脱げば静電気を防げそうだ。"),
+                Component.translatable("message.electric_shock.cannot_place_mekanism_machine"),
                 true
             )
         }

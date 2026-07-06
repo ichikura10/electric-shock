@@ -1,5 +1,3 @@
 {
-  "itemGroup.electric_shock": "Example Mod Tab",
-  "block.electric_shock.example_block": "Example Block",
-  "item.electric_shock.example_item": "Example Item"
+  "message.electric_shock.cannot_place_mekanism_machine": "The static electricity might break the machine. If you take off your gear, you might be able to prevent the static electricity."
 }
